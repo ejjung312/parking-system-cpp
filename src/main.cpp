@@ -9,7 +9,7 @@
 
 std::set<int> vehicles = {2,3,5,7}; // 차량 클래스 ID 목록
 
-int main() {
+int main2() {
     //std::string resource_dir = "./resources/";
 
     std::string resource_dir = "C:\\cpplus\\parking-system\\resources\\";
